@@ -78,84 +78,84 @@
     - - [ ] Sorting:
         - - [ ] Merge Sort
         - - [ ] Quick Sort
-    - - [x] Backtracking
-        - - [x] Sudoku Solver
-        - - [x] N-Queens
-        - - [x] N-Knights
-        - - [x] Maze problems
-    - - [x] Recursion String Problems
-    - - [x] Recursion Array Problems
-    - - [x] Recursion Pattern Problems
-    - - [x] Subset Questions
-    - - [x] Recursion - Permutations, Dice Throws etc Questions
-- [x] Object Oriented Programming
-    - - [x] Introduction
-    - - [x] Classes & its instances
-    - - [x] this keyword in Java
-    - - [x] Properties
-        - - [x] Inheritance
-        - - [x] Abstraction
-        - - [x] Polymorphism
-        - - [x] Encapsulation
-    - - [x] Overloading & Overriding
-    - - [x] Static & Non-Static
-    - - [x] Access Control
-    - - [x] Interfaces
-    - - [x] Abstract Classes
-    - - [x] Singleton Class
-    - - [x] final, finalize, finally
-    - - [x] Exception Handling
-- [x] Linked List
-    - - [x] Introduction
-    - - [x] Singly and Doubly Linked List
-    - - [x] Circular Linked List
-    - - [x] Fast and slow pointer
-    - - [x] Cycle Detection
-    - - [x] Reversing of LinekdList
-    - - [x] Linked List Interview questions
-- [x] Stacks & Queues
-    - - [x] Introduction
-    - - [x] Interview problems
-    - - [x] Push efficient
-    - - [x] Pop efficient
-    - - [x] Queue using Stack and Vice versa
-    - - [x] Circular Queue
+    - - [ ] Backtracking
+        - - [ ] Sudoku Solver
+        - - [ ] N-Queens
+        - - [ ] N-Knights
+        - - [ ] Maze problems
+    - - [ ] Recursion String Problems
+    - - [ ] Recursion Array Problems
+    - - [ ] Recursion Pattern Problems
+    - - [ ] Subset Questions
+    - - [ ] Recursion - Permutations, Dice Throws etc Questions
+- [ ] Object Oriented Programming
+    - - [ ] Introduction
+    - - [ ] Classes & its instances
+    - - [ ] this keyword in Java
+    - - [ ] Properties
+        - - [ ] Inheritance
+        - - [ ] Abstraction
+        - - [ ] Polymorphism
+        - - [ ] Encapsulation
+    - - [ ] Overloading & Overriding
+    - - [ ] Static & Non-Static
+    - - [ ] Access Control
+    - - [ ] Interfaces
+    - - [ ] Abstract Classes
+    - - [ ] Singleton Class
+    - - [ ] final, finalize, finally
+    - - [ ] Exception Handling
+- [ ] Linked List
+    - - [ ] Introduction
+    - - [ ] Singly and Doubly Linked List
+    - - [ ] Circular Linked List
+    - - [ ] Fast and slow pointer
+    - - [ ] Cycle Detection
+    - - [ ] Reversing of LinekdList
+    - - [ ] Linked List Interview questions
+- [ ] Stacks & Queues
+    - - [ ] Introduction
+    - - [ ] Interview problems
+    - - [ ] Push efficient
+    - - [ ] Pop efficient
+    - - [ ] Queue using Stack and Vice versa
+    - - [ ] Circular Queue
 - [ ] Dynamic Programming
-    - - [x] Introduction
-    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [x] Complexity Analysis
-    - - [x] 0/1 Knapsack
-    - - [x] Subset Questions
-    - - [x] DP on Grids
-    - - [x] LC Questions on Above topics
+    - - [ ] Introduction
+    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [ ] Complexity Analysis
+    - - [ ] 0/1 Knapsack
+    - - [ ] Subset Questions
+    - - [ ] DP on Grids
+    - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [x] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
-    - - [x] Introduction
-    - - [x] Binary Trees
-    - - [x] Recursive Preorder, Inorder, Postorder Traversals
-    - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [x] LC Questions
-    - - [x] DFS
-    - - [x] BFS    
+    - - [ ] Introduction
+    - - [ ] Binary Trees
+    - - [ ] Recursive Preorder, Inorder, Postorder Traversals
+    - - [ ] Iterative Preorder, Inorder, Postorder Traversals
+    - - [ ] LC Questions
+    - - [ ] DFS
+    - - [ ] BFS    
     - - [ ] Binary Search Trees
     - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [x] Introduction
-    - - [x] Theory
-    - - [x] Priority Queue
+    - - [ ] Introduction
+    - - [ ] Theory
+    - - [ ] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
     - - [ ] interval problems
 - [ ] Hashmaps
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Comparisons of various forms
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Comparisons of various forms
     - - [ ] Limitations and how to solve
     - - [ ] Map using LinkedList
     - - [ ] Map using Hash
@@ -163,17 +163,17 @@
     - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Applications
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
     - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [x] Introduction
-    - - [x] BFS
-    - - [x] DFS
-    - - [x] Working with graph components
+    - - [ ] Introduction
+    - - [ ] BFS
+    - - [ ] DFS
+    - - [ ] Working with graph components
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
@@ -182,9 +182,9 @@
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [x] Introduction
-    - - [x] Applications
-    - - [x] LC,GFG Questions
+    - - [ ] Introduction
+    - - [ ] Applications
+    - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
 ### Advanced concepts apart from interviews 
@@ -204,6 +204,6 @@
 - [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
