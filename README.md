@@ -1,83 +1,83 @@
 # Progress Tracker
 
 ## DSA
-- [x] Complete Git & GitHub Course
-- [x] Introduction to Programming
-  - - [x] Types of languages
-  - - [x] Memory management
-- [x] Flow of the program
-  - - [x] Flowcharts 
-  - - [x] Pseudocode
-- [x] Introduction to Java
-  - - [x] Introduction
-  - - [x] How it works
-  - - [x] Setup Installation
-  - - [x] Input and Output in Java
-  - - [x] Conditionals & Loops in Java
-    - - [x] if else
-    - - [x] loops
-    - - [x] Switch statements
-  - - [x] Data types
-  - - [x] Coding best practices
-- [x] Functions
-  - - [x] Introduction
-  - - [x] Scoping in Java
-  - - [x] Shadowing 
-  - - [x] Variable Length Arguments
-  - - [x] Overloading
-- [x] Arrays
-  - - [x] Introduction 
-  - - [x] Memory management 
-  - - [x] Input and Output
-  - - [x] ArrayList Introduction
-  - - [x] Sorting 
-    - - [x] Insertion Sort
-    - - [x] Selection Sort
-    - - [x] Bubble Sort
-    - - [x] Cyclic Sort (Merge sort etc after recursion)
-  - [x] Searching 
-    - - [x] Linear Search
-    - - [x] Binary Search
-    - - [x] Modified Binary Search
-    - - [x] Binary Search Interview questions
-    - - [x] Binary Search on 2D Arrays
-- [x] Pattern questions
-- [x] Strings
-    - [x] Introduction
-    - [x] How Strings work
-    - [x] Comparison of methods
-    - [x] Operations in Strings
-    - [x] StringBuilder in java
-- [x] Maths for DSA
-    - - [x] Introduction
-    - - [x] Complete Bitwise Operators
-    - - [x] Prime numbers
-    - - [x] HCF / LCM
-    - - [x] Sieve of Eratosthenes
-    - - [x] Newton's Square Root Method
-    - - [x] Number Theory
-    - - [x] Euclidean algorithm
-- [x] Space and Time Complexity Analysis
-    - - [x] Introduction
-    - - [x] Comparion of various cases
-    - - [x] Solving Linear Recurrence Relations
-    - - [x] Solving Divide and Conquer Recurrence Relations
-    - - [x] Big-O, Big-Omega, Big-Theta Notations
-    - - [x] Get equation of any relation easily - best and easiest approach
-    - - [x] Complexity discussion of all the problems we do
-    - - [x] Space Complexity 
-    - - [x] Memory Allocation of various languages
-    - - [x] NP Completeness and Hardness
-- [x] Recursion
-    - - [x] Introduction
-    - - [x] Why recursion?
-    - - [x] Flow of recursive programs - stacks
-    - - [x] Convert recursion to iteration
-    - - [x] Tree building of function calls
-    - - [x] Tail recursion
-    - - [x] Sorting:
-        - - [x] Merge Sort
-        - - [x] Quick Sort
+- [ ] Complete Git & GitHub Course
+- [ ] Introduction to Programming
+  - - [ ] Types of languages
+  - - [ ] Memory management
+- [ ] Flow of the program
+  - - [ ] Flowcharts 
+  - - [ ] Pseudocode
+- [ ] Introduction to Java
+  - - [ ] Introduction
+  - - [ ] How it works
+  - - [ ] Setup Installation
+  - - [ ] Input and Output in Java
+  - - [ ] Conditionals & Loops in Java
+    - - [ ] if else
+    - - [ ] loops
+    - - [ ] Switch statements
+  - - [ ] Data types
+  - - [ ] Coding best practices
+- [ ] Functions
+  - - [ ] Introduction
+  - - [ ] Scoping in Java
+  - - [ ] Shadowing 
+  - - [ ] Variable Length Arguments
+  - - [ ] Overloading
+- [ ] Arrays
+  - - [ ] Introduction 
+  - - [ ] Memory management 
+  - - [ ] Input and Output
+  - - [ ] ArrayList Introduction
+  - - [ ] Sorting 
+    - - [ ] Insertion Sort
+    - - [ ] Selection Sort
+    - - [ ] Bubble Sort
+    - - [ ] Cyclic Sort (Merge sort etc after recursion)
+  - [ ] Searching 
+    - - [ ] Linear Search
+    - - [ ] Binary Search
+    - - [ ] Modified Binary Search
+    - - [ ] Binary Search Interview questions
+    - - [ ] Binary Search on 2D Arrays
+- [ ] Pattern questions
+- [ ] Strings
+    - [ ] Introduction
+    - [ ] How Strings work
+    - [ ] Comparison of methods
+    - [ ] Operations in Strings
+    - [ ] StringBuilder in java
+- [ ] Maths for DSA
+    - - [ ] Introduction
+    - - [ ] Complete Bitwise Operators
+    - - [ ] Prime numbers
+    - - [ ] HCF / LCM
+    - - [ ] Sieve of Eratosthenes
+    - - [ ] Newton's Square Root Method
+    - - [ ] Number Theory
+    - - [ ] Euclidean algorithm
+- [ ] Space and Time Complexity Analysis
+    - - [ ] Introduction
+    - - [ ] Comparion of various cases
+    - - [ ] Solving Linear Recurrence Relations
+    - - [ ] Solving Divide and Conquer Recurrence Relations
+    - - [ ] Big-O, Big-Omega, Big-Theta Notations
+    - - [ ] Get equation of any relation easily - best and easiest approach
+    - - [ ] Complexity discussion of all the problems we do
+    - - [ ] Space Complexity 
+    - - [ ] Memory Allocation of various languages
+    - - [ ] NP Completeness and Hardness
+- [ ] Recursion
+    - - [ ] Introduction
+    - - [ ] Why recursion?
+    - - [ ] Flow of recursive programs - stacks
+    - - [ ] Convert recursion to iteration
+    - - [ ] Tree building of function calls
+    - - [ ] Tail recursion
+    - - [ ] Sorting:
+        - - [ ] Merge Sort
+        - - [ ] Quick Sort
     - - [x] Backtracking
         - - [x] Sudoku Solver
         - - [x] N-Queens
